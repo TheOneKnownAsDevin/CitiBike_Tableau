@@ -1,4 +1,5 @@
 # CitiBike_Tableau
+Resources used were AskBCS, Jupyter Notebook, Tableau Public..
 
 ** Tableau Public Dashboard Link ** https://public.tableau.com/app/profile/devin.alvarez/viz/TabHW-CitiBike/Dashboard1?publish=yes
 
